@@ -1,0 +1,9 @@
+/*/.dart_tool
+/*/.idea
+/*/.vscode
+/*/build
+/*/.flutter-plugins
+/*/.flutter-plugins-dependencies
+/*/.packages
+/*/analysis_options.yaml
+/*/pubspec.lock
